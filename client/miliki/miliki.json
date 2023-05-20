@@ -1,0 +1,32 @@
+{
+    "type": "FeatureCollection",
+    "community": {
+        "meta": {
+            "name": "Miliki",
+            "symbol": "MIL",
+            "currency": "Yetu Token",
+            "assets": "QmVZxxptkdeqhrsN1PUjuaXP9crqYZwzPejc7cA5Q4yuRQ",
+            "url": ""
+        },
+        "bootstrappers": [
+            "5FHECsPvzXk1xytHCzYLMjrVzTGx6KaCy1axmEjat6AZ6XVa",
+            "5HpN5g42JhRxntJZjVgEdU751Cbj8pozTqnL5rzM71xuh7d3",
+            "5DkgrV6n5XCtVqBa7UfiwQ1GBLwZ9nKF8fTxynoe6NYLZ3F7"
+        ],
+        "demurrage_halving_blocks": 2628000,
+        "ceremony_income": 500
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {},
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.8019669678774,
+                    -1.24036553947243
+                ]
+            }
+        }
+    ]
+}

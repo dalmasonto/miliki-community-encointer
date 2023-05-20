@@ -1,0 +1,12 @@
+Acceptance point
+{
+    "type": "Feature",
+    "properties": {},
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            36.827465149605736,
+            -1.2503655394724327
+        ]
+    }
+}
